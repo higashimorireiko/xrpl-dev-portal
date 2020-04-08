@@ -23,7 +23,7 @@ Having trouble getting your `rippled` server started? See [rippled Server Won't 
 
 {% include '_snippets/conf-file-location.md' %}<!--_ -->
 
-See [the `rippled` GitHub repository](https://github.com/ripple/rippled/blob/master/cfg/rippled-example.cfg) for a description of all configuration options.
+See the [`rippled` GitHub repository](https://github.com/ripple/rippled/blob/master/cfg/rippled-example.cfg) for a description of all configuration options.
 
 You must restart `rippled` for any configuration changes to take effect:
 
